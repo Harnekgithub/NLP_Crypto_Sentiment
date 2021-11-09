@@ -1,4 +1,4 @@
-# NLP_Crypto_Sentiment
+# Natural Language Processing - Crypto Sentiment
 Bitcoin and Ethereum Sentiment analysis using Natural Language Processing (NLP)
 In order to gauge the sentiment in the news articles about Bitcoin and Ethereum cryptocurrencies, Natural language processing techniques were used. To get the news articles NewsAPI was used and clean the text and analyze it Natural Language Tool Kit (NLTK) was used.
 
@@ -62,3 +62,5 @@ Generated the Bitcoin and Ethereum using word cloud
 ### Named Entity Recognition
 
 Visualizing text that is important using NER (Named Entity Recognition) NER generates text that hightlights what words are important in the article, and which "category" the word belongs to like is it a currency, Date, Location or a name, etc.
+
+![Named Entity Recognition](Images/Bitcoin_NRE.png)
